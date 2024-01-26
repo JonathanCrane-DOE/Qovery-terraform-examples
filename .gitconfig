@@ -1,0 +1,13 @@
+[user]
+	name = JonathanCrane-DOE
+    email = jonathan.crane@hq.doe.gov
+[http]
+	sslVerify = false
+[credential "https://github.doe.gov"]
+	provider = github
+[credential "https://github.com"]
+	provider = github
+[core]
+	editor = C:\\Users\\Jonathan.Crane\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe
+[init]
+	defaultBranch = master
