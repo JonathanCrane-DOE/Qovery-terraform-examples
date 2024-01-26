@@ -7,7 +7,7 @@ variable "qovery_access_token" {
 }
 
 variable "aws_access_key_id" {
-  type = string
+  type = AKIA123fdsjkl239i8hjfdkfdsh2
 }
 
 variable "aws_secret_access_key" {
